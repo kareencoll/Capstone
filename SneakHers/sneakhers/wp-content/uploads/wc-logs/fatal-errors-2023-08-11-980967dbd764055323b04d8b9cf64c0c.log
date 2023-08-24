@@ -1,0 +1,6 @@
+2023-08-11T15:07:01+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 741376 bytes) in /home/xlijttuv/public_html/sneakhers/wp-content/themes/Divi/includes/builder/framework.php on line 849
+
+2023-08-11T15:11:02+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 147456 bytes) in /home/xlijttuv/public_html/sneakhers/wp-content/themes/Divi/includes/builder/framework.php on line 849
+
+2023-08-11T15:13:03+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 147456 bytes) in /home/xlijttuv/public_html/sneakhers/wp-content/themes/Divi/includes/builder/framework.php on line 849
+
